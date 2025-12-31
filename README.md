@@ -19,7 +19,7 @@ This project showcases my skills, projects, and background in a clean, responsiv
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🛠️
 
 - **HTML5**
 - **CSS3**
